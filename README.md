@@ -1,5 +1,7 @@
 # Calculator_Application
-Here’s a Calculator Application Project by Noorain
+Here’s a README description by Noorain for a Calculator Application project built with HTML, CSS, and JavaScript:
+
+
 
 ---
 
